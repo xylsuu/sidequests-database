@@ -1,0 +1,18 @@
+{
+  "latestQuestId": 1,
+  "quests": {
+    "0": {
+      "questContent": "Find the coolest looking stick :)",
+      "categories": [
+        "nature",
+        "exploration"
+      ]
+    },
+    "1": {
+      "questContent": "Have under 2 hours of screentime",
+      "categories": [
+        "selfcare"
+      ]
+    }
+  }
+}
