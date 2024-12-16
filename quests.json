@@ -21,6 +21,13 @@
         "Social",
         "Fun"
       ]
+    },
+    "3": {
+      "questContent": "Try something you've never tried",
+      "categories": [
+        "New",
+        "Fun"
+      ]
     }
   }
 }
