@@ -36,5 +36,12 @@
         "Love"
       ]
     }
+    "5": {
+      "questContent": "Try writing lyrics for song",
+      "categories": [
+        "New",
+        "Fun"
+      ]
+    }
   }
 }
